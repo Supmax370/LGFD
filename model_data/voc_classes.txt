@@ -1,0 +1,6 @@
+Bus
+Car
+Lamp
+Motorcycle
+People
+Truck

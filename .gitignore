@@ -1,0 +1,13 @@
+# Model weights (exceed GitHub 100MB limit)
+*.pth
+*.pt
+*.weights
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
